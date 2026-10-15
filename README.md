@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rabia Mughal 👋
 
-<!--
-**Rabiamughal282/Rabiamughal282** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at SZABIST University
 
-Here are some ideas to get you started:
+I'm passionate about programming, problem-solving, and building practical software projects. I'm continuously learning and developing my technical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Studying Software Engineering
+- 💡 Interested in software development and technology
+- 🌱 Learning through academic and personal projects
+- 🎯 Looking for opportunities to grow as a developer
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Java, Assembly
+- **Database:** MySQL
+- **Tools:** Git, GitHub, NetBeans, VS Code
+- **Operating System:** Ubuntu / Linux
+
+## 📂 Academic Projects
+
+- **Room Services Management System** — Java desktop application with database integration
+- **File System Directory Structure** — exploring trees and data structures
+- **Factorial Calculator** — an Assembly language project
+
+## 📫 Connect With Me
+
+- GitHub: [@Rabiamughal282](https://github.com/Rabiamughal282)
+
+---
+*Learning, building, and growing one project at a time.*
